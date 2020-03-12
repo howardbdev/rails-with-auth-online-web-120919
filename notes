@@ -1,3 +1,6 @@
+IF YOU ARE SEEING THIS -- THIS BRANCH CONTAINS GOOD CODE FOR DEVISE + OMNIAUTH
+IF YOU ARE NOT USING DEVISE, SWITCH TO THE "omniauth-with-google-no-devise" BRANCH!
+
 Today's plan:  Rails Auth AND Rails Auth with Devise
 
 Two repos.
