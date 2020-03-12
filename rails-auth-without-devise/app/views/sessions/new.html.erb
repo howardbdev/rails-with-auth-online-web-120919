@@ -1,6 +1,10 @@
 <h1>Sessions#new</h1>
 <p>Find me in app/views/sessions/new.html.erb</p>
 
+<% if @user && @user.errors.any? %>
+  <h4 style="color: red;"><%= @user.errors.full_messages.to_sentence %></h4>
+<% end %>
+
 <%= form_tag "/login" do %>
   <%= text_field_tag :email, "", placeholder: "email" %>
   <%= text_field_tag :password, "", placeholder: "password" %>
