@@ -1,11 +1,15 @@
 Branches are as follows:
 
-first-lecture-without-omniauth
-: auth without AND with Devise
-second-lecture: only for Omniauth WITH Devise
-omniauth-with-google-no-devise: for Omniauth WITHOUT Devise
+[first-lecture-without-omniauth](https://github.com/howardbdev/rails-with-auth-online-web-120919/tree/first-lecture-without-omniauth)
+- auth without AND with Devise
 
-master is up-to-date with omniauth-with-google-no-devise so if you're using devise make sure to switch branches.
+[second-lecture](https://github.com/howardbdev/rails-with-auth-online-web-120919/tree/second-lecture)
+- only for Omniauth WITH Devise
+
+[omniauth-with-google-no-devise](https://github.com/howardbdev/rails-with-auth-online-web-120919/tree/omniauth-with-google-no-devise) - for Omniauth WITHOUT Devise
+
+[master](https://github.com/howardbdev/rails-with-auth-online-web-120919)
+- up-to-date with omniauth-with-google-no-devise so if you're using devise make sure to switch branches.
 
 
 Today's plan:  Rails Auth AND Rails Auth with Devise
