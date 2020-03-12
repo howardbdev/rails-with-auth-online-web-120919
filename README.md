@@ -1,3 +1,12 @@
+Branches are as follows:
+
+first-lecture-without-omniauth
+: auth without AND with Devise
+second-lecture: only for Omniauth WITH Devise
+omniauth-with-google-no-devise: for Omniauth WITHOUT Devise
+
+
+
 Today's plan:  Rails Auth AND Rails Auth with Devise
 
 Two repos.
